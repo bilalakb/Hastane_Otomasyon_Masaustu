@@ -1,5 +1,5 @@
 🏥 Hastane Otomasyon Sistemi (Java & MariaDB)
-Bu proje, üniversite 2. sınıfında geliştirdiğim bir masaüstü hastane otomasyon sistemidir. Uygulama, kullanıcıların kayıt olup randevu alabileceği, doktorların kendi programlarını oluşturabileceği ve başhekimin hastane yönetimini gerçekleştirebileceği temel bir sağlık otomasyon sistemidir.
+Bu proje, üniversite 1. sınıfında geliştirdiğim bir masaüstü hastane otomasyon sistemidir. Uygulama, kullanıcıların kayıt olup randevu alabileceği, doktorların kendi programlarını oluşturabileceği ve başhekimin hastane yönetimini gerçekleştirebileceği temel bir sağlık otomasyon sistemidir.
 
 📌 Temel Özellikler
 👤 Kullanıcı Paneli
